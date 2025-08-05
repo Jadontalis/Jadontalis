@@ -8,8 +8,9 @@ My name is __Jaden Hampton__, I'm a student at Montana State University currentl
 
 ------------------------------------//\\------------------------------------------
 
-__I'm currently working on a full-stack software for Summit Auto Glass in Belgrade, MT.__
-__Some languages I have been delving into are Java, C, JavaScript + Typescript + React Frameworks, and briefly R.__
+* __I'm currently working on a full-stack software for Summit Auto Glass in Belgrade, MT.__
+
+* __Some languages I have been delving into are Java, C, JavaScript + Typescript + React Frameworks, and briefly R.__
 
 - ⚡ About me more personally: I also have lots of hobbies in the real world. Most of my extra time is spent with my girlfriend and going outdoors with my husky puppy Mishka, or working on my cars. I am also a huge Star Trek fan, but I'm mostly just a chump for Next Gen.
 
