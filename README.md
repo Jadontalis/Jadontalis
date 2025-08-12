@@ -1,8 +1,4 @@
-__Welcome!__
-
-
-![Alt Text](https://i.pinimg.com/originals/2f/09/72/2f09725e96897112eb248feae582ecaa.gif)
-
+__Hey there! Welcome to my Github!__
 
 My name is __Jaden Hampton__, I'm a student at Montana State University currently studying Computer Science and Psychology. I am pursuing software engineering, and currently building a classic Saab 900 Turbo to be an ARA Rally Car.
 
@@ -21,7 +17,7 @@ My name is __Jaden Hampton__, I'm a student at Montana State University currentl
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
      * Facebook - https://www.facebook.com/md.gaming.94
      * Discord - mdgaming1010
-
   
+   ![Alt Text](https://i.pinimg.com/originals/2f/09/72/2f09725e96897112eb248feae582ecaa.gif)
 
 
