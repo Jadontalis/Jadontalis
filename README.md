@@ -16,7 +16,7 @@ About me: I have too many hobbies, though of my free time is spent with my girlf
  - 📫 How to reach me:
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
      * Facebook - https://www.facebook.com/md.gaming.94
-     * Discord - mdgaming1010
+     * Discord - https://discordapp.com/users/mdgaming1010
   
 
     <div style="text-align: center;"> 
