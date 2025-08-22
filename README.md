@@ -1,4 +1,4 @@
-__Hey there! Welcome to my Github!__
+__Hey! Welcome to my Github!__
 
 My name is __Jaden Hampton__, I'm a student at Montana State University, currently studying Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association.
 
