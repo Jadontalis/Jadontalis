@@ -4,7 +4,7 @@ My name is __Jaden Hampton__, I'm a student at Montana State University, current
 
 ------------------------------------//\\------------------------------------------
 
-* __I'm currently working on a full-stack software for Summit Auto Glass in Belgrade, MT.__
+* __I'm currently working on a full-stack inventory software for Summit Auto Glass in Belgrade, MT.__
 
 * __Some languages I have delved into recently are Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to add to my C learning.__
 
