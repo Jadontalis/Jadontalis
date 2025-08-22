@@ -8,7 +8,7 @@ My name is __Jaden Hampton__, I'm a student at Montana State University, current
 
 * __Some languages I have delved into recently are Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to add to my C learning.__
 
-⚡ About me more personally: I also have lots of hobbies in the real world. Most of my extra time is spent with my girlfriend and going outdoors with my husky puppy Mishka, or working on my cars. I also have a YouTube channel dedicated to just making car content with the handle "jaden-hampton".
+About me: I also have lots of hobbies in the real world. Most of my extra time is spent with my girlfriend and going outdoors with my husky puppy Mishka, or working on my cars. I'm a big star trek fan and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton".
 
  
 ------------------------------------//\\------------------------------------------
