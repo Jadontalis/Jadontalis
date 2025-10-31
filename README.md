@@ -1,6 +1,6 @@
 __Hey! Welcome to my Github!__
 
-My name is __Jaden Hampton__, I'm a student at Montana State University, currently studying Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association.
+My name is __Jaden Hampton__, I'm a student at Montana State University, currently majoring in Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association. As of September 2025 I am a member of the Association of Computing & Machinery (ACM).
 
 ------------------------------------//\\------------------------------------------
 
@@ -14,6 +14,7 @@ About me: I have too many hobbies, though most of my free time is spent with my 
 ------------------------------------//\\------------------------------------------
 
  - 📫 How to reach me:
+     * Email - jaybirdwebdesign@gmail.com
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
      * Facebook - https://www.facebook.com/md.gaming.94
      * Discord - https://discordapp.com/users/mdgaming1010
