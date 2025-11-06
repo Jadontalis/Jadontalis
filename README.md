@@ -16,7 +16,6 @@ About me: I have too many hobbies, though most of my free time is spent with my 
  - 📫 How to reach me:
      * Email - jaybirdwebdesign@gmail.com
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
-     * Facebook - https://www.facebook.com/md.gaming.94
      * Discord - https://discordapp.com/users/mdgaming1010
   
 
