@@ -2,7 +2,7 @@ __Hey! Welcome to my Github!__
 
 My name is __Jaden Hampton__, I'm a student at Montana State University, currently majoring in Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association.
 
-------------------------------------//\\------------------------------------------
+<------------------------------------//\\------------------------------------------>
 
 __What I've Been Working On__
 * Inventory management software with frontend for employees and managers to interact with
@@ -14,7 +14,7 @@ __Some Languages I Have Worked With Recently__
 About me: Most of my free time is spent with my girlfriend, going outdoors with my husky puppy Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton". I am also an ACM member through the Montana State University chapter.
 
  
-------------------------------------//\\------------------------------------------
+<------------------------------------//\\------------------------------------------>
 
  - 📫 How to reach me:
      * Email - jaybirdwebdesign@gmail.com
