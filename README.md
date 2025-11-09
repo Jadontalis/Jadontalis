@@ -1,14 +1,17 @@
 __Hey! Welcome to my Github!__
 
-My name is __Jaden Hampton__, I'm a student at Montana State University, currently majoring in Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association. As of September 2025 I am a member of the Association of Computing & Machinery (ACM).
+My name is __Jaden Hampton__, I'm a student at Montana State University, currently majoring in Computer Science and Psychology. I am pursuing a career in software engineering and am currently building a classic Saab 900 Turbo to compete in the American Rally Association.
 
 ------------------------------------//\\------------------------------------------
 
-* __I'm currently working on a full-stack inventory software for Summit Auto Glass in Belgrade, MT.__
+__What I've Been Working On__
+* Inventory management software with frontend for employees and managers to interact with
+* Registration system that funnels users to create an account and register for events with AuthO integration with Stripe for payment
 
-* __Some languages I have delved into recently are Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to supplement my backend programming journey.__
+__Some Languages I Have Worked With Recently__
+* Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to supplement my backend programming journey.
 
-About me: I have too many hobbies, though most of my free time is spent with my girlfriend, going outdoors with my husky puppy, Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton".
+About me: I have too many hobbies, though most of my free time is spent with my girlfriend, going outdoors with my husky puppy, Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton". I am also an ACM member through the Montana State University chapter.
 
  
 ------------------------------------//\\------------------------------------------
