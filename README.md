@@ -19,7 +19,6 @@ About me: Most of my free time is spent with my girlfriend, going outdoors with 
  - 📫 How to reach me:
      * Email - jaybirdwebdesign@gmail.com
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
-     * Discord - https://discordapp.com/users/mdgaming1010
   
 
     <div style="text-align: center;"> 
