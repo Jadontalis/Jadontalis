@@ -12,7 +12,7 @@ __Some Languages I Have Worked With Recently__
 * Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to supplement my backend programming journey.
 
 __About Me__
-* Most of my free time is spent with my girlfriend, going outdoors with my husky puppy Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton". I am also an ACM member through the Montana State University chapter.
+* Most of my free time is spent with my girlfriend, going outdoors with my husky puppy Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton". I am also an ACM member through the MSU chapter.
 
  
 <------------------------------------//\\------------------------------------------>
