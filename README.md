@@ -5,8 +5,8 @@ My name is __Jaden Hampton__, I'm a student at Montana State University, current
 <------------------------------------//\\------------------------------------------>
 
 __What I've Been Working On__
-* Inventory management software with frontend for employees and managers to interact with
-* Registration system that funnels users to create an account and register for events with AuthO integration with Stripe for payment
+* Inventory management software with frontend for employees and managers to manage and interact with database and process job orders.
+* Registration system that funnels users to create an account and register for events with AuthO integration with Square for payment processing.
 
 __Some Languages I Have Worked With Recently__
 * Java, C, JavaScript, React Frameworks, a lil linting in TypeScript, & R + RStudio. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO and RUST to supplement my backend programming journey.
