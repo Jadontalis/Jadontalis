@@ -10,7 +10,7 @@ __What I've Been Working On__
 * Full-stack registration web-application with frontend for end users to create an account and register for events with Square for payment processing and full backend accessing admin console for event handlers to extract data from PostgreSQL database and normalize that for run orders and internal spreadsheets.
 
 __Some Languages & Frameworks I Have Worked With Recently__
-* Java, C, JavaScript, React Frameworks, Next.js, Typescript, R & R Studio for Psychology major. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO, RUST, C++, etc. to supplement my backend and low-level journey. I plan on also drinking the .NET koolaid with some C# as well.
+* Java, C, JavaScript, React Frameworks, Next.js, Typescript, R & R Studio for Psychology major. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like GO, RUST, C++, etc. to supplement my backend and low-level journey.
 
 __About Me__
 * Most of my free time is spent with my girlfriend, going outdoors with my husky puppy Mishka, or working on my cars. I'm a big Star Trek fan, and I also have a YouTube channel dedicated to making car content under the handle "jaden-hampton". I am also an ACM member through the MSU chapter.
