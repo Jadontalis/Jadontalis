@@ -5,7 +5,7 @@ My name is __Jaden Hampton__, I'm a student at Montana State University, current
 <------------------------------------//\\------------------------------------------>
 
 __What I've Been Working On__
-* Full-Stack inventory management software with frontend for employees to check in glass, manage part numbers and associated jobs, with a backend admin dashboards for managers to interact with database queries and process job orders.
+* Full-Stack inventory management software with frontend for employees to check in glass, manage part numbers and associated jobs, with a backend admin dashboards for managers and employees to interact with database queries and process job orders.
   
 * Full-stack registration web-application with frontend for end users to create an account and register for events with Square for payment processing and full backend accessing admin console for event handlers to extract data from PostgreSQL database and normalize that for run orders and internal spreadsheets.
 
