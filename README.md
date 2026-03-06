@@ -21,6 +21,7 @@ __About Me__
  - 📫 How to reach me:
      * Email - jaybirdwebdesign@gmail.com
      * LinkedIn - https://www.linkedin.com/in/jaden-hampton-926a6a200/
+     * Discord - jadontalis
   
 
     <div style="text-align: center;"> 
