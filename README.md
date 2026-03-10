@@ -9,6 +9,8 @@ __What I've Been Working On__
   
 * Full-stack registration web-application with frontend for end users to create an account and register for events with Square for payment processing and backend accessing admin console for event handlers to extract data from PostgreSQL database and normalize that for run orders and internal spreadsheets.
 
+* Disc golf tracker software and hardware solution written in C and GO to leverage microcontroller and added modules. I am building a GO server to interpret the telemetry data of the incoming data and then pass it through the GO server to a websocket. This is then saved with PostGIS into a Redis cache for tracking live stats and managing/tracking user sessions. Subsequently data is then saved via PostGIS in PostgreSQL for persistence.
+
 __Some Languages & Frameworks I Have Worked With Recently__
 * Java, C, JavaScript, Typescript, and GO. I would love to dive more into languages & frameworks like Ruby + Ruby on Rails, HTMX, and languages like, RUST and C++ to supplement my backend and low-level journey.
   
