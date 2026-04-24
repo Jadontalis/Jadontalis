@@ -7,7 +7,7 @@ My name is __Jaden Hampton__, I'm a student at Montana State University, current
 __What I've Been Working On__
 * Full-Stack inventory management software with frontend for employees to check in glass, manage part numbers and associated jobs, with a backend admin dashboards for managers and employees to interact with database queries and process job orders.
   
-* Full-stack registration web-application with frontend for end users to create an account and register for events with Square for payment processing and backend accessing admin console for event handlers to extract data from PostgreSQL database and normalize that for run orders and internal spreadsheets.
+* Full-stack Skijoring registration software with place for end users to create an account, register for events, and pay using the Square API for payment processing. The user-backend has an admin console for event managers to pull data from a PostgreSQL database and normalize that for run orders and internal spreadsheets.
 
 * Disc golf tracker software and hardware solution written in C and GO to leverage microcontroller and added modules. I am building a GO server to interpret the telemetry data of the incoming binary stream with Protobuf and then piping it through the GO server and HTTP POST to serve to end user. This is then saved with PostGIS and timescaleDB tracking live stats and managing/tracking user sessions. Subsequently data is saved via PostGIS in PostgreSQL for persistence.
 
